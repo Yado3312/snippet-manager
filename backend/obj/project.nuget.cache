@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "L0gu+TdR64c=",
+  "success": true,
+  "projectFilePath": "/home/xavier/Documents/snippet-manager/backend/backend.csproj",
+  "expectedPackageFiles": [
+    "/home/xavier/.nuget/packages/microsoft.aspnetcore.openapi/10.0.12/microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "/home/xavier/.nuget/packages/microsoft.data.sqlite/10.0.12/microsoft.data.sqlite.10.0.12.nupkg.sha512",
+    "/home/xavier/.nuget/packages/microsoft.data.sqlite.core/10.0.12/microsoft.data.sqlite.core.10.0.12.nupkg.sha512",
+    "/home/xavier/.nuget/packages/microsoft.openapi/2.12.0/microsoft.openapi.2.12.0.nupkg.sha512",
+    "/home/xavier/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.12/sqlitepclraw.bundle_e_sqlite3.2.1.12.nupkg.sha512",
+    "/home/xavier/.nuget/packages/sqlitepclraw.core/2.1.12/sqlitepclraw.core.2.1.12.nupkg.sha512",
+    "/home/xavier/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.12/sqlitepclraw.lib.e_sqlite3.2.1.12.nupkg.sha512",
+    "/home/xavier/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.12/sqlitepclraw.provider.e_sqlite3.2.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
