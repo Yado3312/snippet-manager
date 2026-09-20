@@ -1,1 +1,2 @@
 # snippet-manager
+# snippet-manager
