@@ -57,3 +57,4 @@
 /home/xavier/Documents/snippet-manager/backend/obj/Debug/net10.0/backend.pdb
 /home/xavier/Documents/snippet-manager/backend/obj/Debug/net10.0/backend.genruntimeconfig.cache
 /home/xavier/Documents/snippet-manager/backend/obj/Debug/net10.0/ref/backend.dll
+/home/xavier/Documents/snippet-manager/backend/obj/Debug/net10.0/backend.sourcelink.json
